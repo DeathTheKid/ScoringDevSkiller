@@ -1,0 +1,37 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoringExercise", "ScoringExercise\ScoringExercise.csproj", "{AB7FF3E9-6EFF-4A1E-8DC5-6A76AD6DE15D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoringExercise.Tests", "ScoringExercise.Tests\ScoringExercise.Tests.csproj", "{4163F6B4-AC30-4B07-BD22-EBBB260A292A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6EF041FD-F87B-417E-83B2-E6BC7A4A7FA9}"
+	ProjectSection(SolutionItems) = preProject
+		devskiller.json = devskiller.json
+		Instructions.md = Instructions.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB7FF3E9-6EFF-4A1E-8DC5-6A76AD6DE15D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7FF3E9-6EFF-4A1E-8DC5-6A76AD6DE15D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7FF3E9-6EFF-4A1E-8DC5-6A76AD6DE15D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7FF3E9-6EFF-4A1E-8DC5-6A76AD6DE15D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4163F6B4-AC30-4B07-BD22-EBBB260A292A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4163F6B4-AC30-4B07-BD22-EBBB260A292A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4163F6B4-AC30-4B07-BD22-EBBB260A292A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4163F6B4-AC30-4B07-BD22-EBBB260A292A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF8C2735-580F-46AE-AA6C-F7695AC516E0}
+	EndGlobalSection
+EndGlobal
